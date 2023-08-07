@@ -1,0 +1,480 @@
+{
+  "users": [
+    {
+      "email": "trongnhan34vn@gmail.com",
+      "password": "$2a$10$.AkaYRV4z8TaoYRHEWxuN.LC/CBixYRlHKuCy9jS/NEGPVgqGlWG2",
+      "fullName": "Nguyễn Nhân",
+      "imageUrl": "https://lh3.googleusercontent.com/a/AAcHTtemuTAkckBKkwARkxJge6LwQ3Y8Nev9TK5oudmSVW-Qw5k=s96-c",
+      "id": 1
+    },
+    {
+      "email": "nambeo@gmail.com",
+      "password": "$2a$10$TRdjKJ9xv74mIEFKCxbWdugae4ep6pOy4Gd/kc6ImLvPLjzxeeIgK",
+      "fullName": "",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/md1-test-84536.appspot.com/o/images%2Fpngwing.com%20(1).png?alt=media&token=4cdad30c-f4d7-4ab0-897f-95cc8649edcf",
+      "id": 2
+    },
+    {
+      "email": "khoapug@gmail.com",
+      "password": "$2a$10$TRdjKJ9xv74mIEFKCxbWdugae4ep6pOy4Gd/kc6ImLvPLjzxeeIgK",
+      "fullName": "",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/md1-test-84536.appspot.com/o/images%2Fpngwing.com%20(1).png?alt=media&token=4cdad30c-f4d7-4ab0-897f-95cc8649edcf",
+      "id": 3
+    },
+    {
+      "email": "nambeo0404@gmail.com",
+      "password": "$2a$10$vmfgwmU85HoGcNQtknyLsuaCv1HvovCgksdPtlqPTUF2KAebcNOAe",
+      "fullName": "",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/md1-test-84536.appspot.com/o/images%2Fpngwing.com%20(1).png?alt=media&token=4cdad30c-f4d7-4ab0-897f-95cc8649edcf",
+      "id": 4
+    }
+  ],
+  "typeProjects": [
+    {
+      "id": 1,
+      "name": "Doanh nghiệp nhỏ"
+    },
+    {
+      "id": 2,
+      "name": "Marketing"
+    },
+    {
+      "id": 3,
+      "name": "Kĩ thuật-CNTT"
+    },
+    {
+      "id": 4,
+      "name": "Điều hành"
+    },
+    {
+      "id": 5,
+      "name": "Kinh doanh CRM"
+    },
+    {
+      "id": 6,
+      "name": "Nhân Sự"
+    },
+    {
+      "id": 7,
+      "name": "Giáo dục"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Khoa Pug",
+      "typeProjectId": 3,
+      "userId": 1,
+      "description": "",
+      "createdAt": 1690902903424,
+      "id": 1
+    },
+    {
+      "name": "anh Nam test",
+      "typeProjectId": 3,
+      "userId": 2,
+      "description": "",
+      "createdAt": 1691310337091,
+      "id": 2
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": 1,
+      "bgUrl": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1536x1920/299e9abe65f76860e3e8fe1f0f1833e7/photo-1688673678101-15195a13a44a.jpg"
+    },
+    {
+      "id": 2,
+      "bgUrl": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1438x1920/5c52999be6e9d59846fed8bda407851d/photo-1655679152783-f4d22c72264a.jpg"
+    },
+    {
+      "id": 3,
+      "bgUrl": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1920/22c75430e52d91e128187fc164f5beb5/photo-1689005046866-9586288969a3.jpg"
+    },
+    {
+      "id": 4,
+      "bgUrl": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1440x1920/807609286197fc5e5f65dab570d1dce7/photo-1689850969146-43cd8e188bbf.jpg"
+    },
+    {
+      "id": 5,
+      "bgUrl": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2398x1600/a051633c873a6869d318b2637103b0f9/photo-1477346433521-912858ffd498.jpg"
+    },
+    {
+      "id": 6,
+      "bgUrl": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1152/6d6e8429dd4e3570ae4c6865b4f4d582/photo-1688934150111-ab9a5d327087.jpg"
+    },
+    {
+      "id": 7,
+      "bgUrl": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/0fdba8f1a1a494bf85bb5c441f917e21/photo-1685462576399-d3a3c11e3f79.jpg"
+    },
+    {
+      "id": 8,
+      "bgUrl": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1078x1920/0b8882d8489da69c1d8edaa8ff30cfd8/photo-1679702173887-351a81433cdd.jpg"
+    }
+  ],
+  "tables": [
+    {
+      "name": "cíu anhh",
+      "projectId": 1,
+      "bgId": 5,
+      "createdAt": 1690902922139,
+      "id": 1
+    },
+    {
+      "name": "2020",
+      "projectId": 1,
+      "bgId": 2,
+      "createdAt": 1690912229099,
+      "id": 2
+    },
+    {
+      "name": "test",
+      "projectId": 1,
+      "bgId": 7,
+      "createdAt": 1691310053854,
+      "id": 3
+    },
+    {
+      "name": "test",
+      "projectId": 2,
+      "bgId": 8,
+      "createdAt": 1691310345685,
+      "id": 4
+    },
+    {
+      "name": "test 2",
+      "projectId": 2,
+      "bgId": 1,
+      "createdAt": 1691310510328,
+      "id": 5
+    }
+  ],
+  "lists": [
+    {
+      "name": "Hà nội",
+      "tableId": 1,
+      "order": 0,
+      "createdAt": 1690902957017,
+      "id": 1
+    },
+    {
+      "name": "ngày buồn",
+      "tableId": 1,
+      "order": 1,
+      "createdAt": 1690904378209,
+      "id": 2
+    },
+    {
+      "name": "ko nghĩ ra",
+      "tableId": 1,
+      "order": 2,
+      "createdAt": 1690962659465,
+      "id": 3
+    },
+    {
+      "name": "nam béo",
+      "tableId": 2,
+      "order": 3,
+      "createdAt": 1690999328866,
+      "id": 4
+    }
+  ],
+  "cards": [
+    {
+      "name": "đêm trở gió",
+      "listId": 1,
+      "order": 0,
+      "description": "Hà Nội ngày buồn đêm trở gió",
+      "status": false,
+      "endAt": 1691694300000,
+      "createdAt": 1690902966270,
+      "id": 1
+    },
+    {
+      "name": "mưa rơi rả rích",
+      "listId": 2,
+      "order": 0,
+      "description": "",
+      "status": false,
+      "endAt": 0,
+      "createdAt": 1690904385987,
+      "id": 2
+    },
+    {
+      "name": "anh Nam gucci",
+      "listId": 1,
+      "order": 1,
+      "description": "",
+      "status": false,
+      "endAt": 0,
+      "createdAt": 1690904392397,
+      "id": 3
+    },
+    {
+      "name": "chán quá",
+      "listId": 4,
+      "order": 0,
+      "description": "",
+      "status": false,
+      "endAt": 0,
+      "createdAt": 1690999338302,
+      "id": 4
+    },
+    {
+      "name": "anh Nam",
+      "listId": 3,
+      "order": 0,
+      "description": "",
+      "status": false,
+      "endAt": 0,
+      "createdAt": 1691374618160,
+      "id": 5
+    }
+  ],
+  "works": [
+    {
+      "cardId": 1,
+      "name": "học React",
+      "process": 0,
+      "createdAt": 1691029063464,
+      "id": 1
+    },
+    {
+      "cardId": 3,
+      "name": "đánh nhau",
+      "process": 0,
+      "createdAt": 1691114877740,
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "name": "function component",
+      "workId": 1,
+      "endAt": 0,
+      "status": true,
+      "createdAt": 1691029133351,
+      "id": 3,
+      "member": null
+    },
+    {
+      "name": "class component\n",
+      "workId": 1,
+      "endAt": 0,
+      "status": false,
+      "createdAt": 1691051213603,
+      "id": 4
+    },
+    {
+      "name": "aaaaa",
+      "workId": 1,
+      "endAt": 0,
+      "status": false,
+      "createdAt": 1691051218683,
+      "id": 5
+    },
+    {
+      "name": "học bài thôi",
+      "workId": 1,
+      "endAt": 0,
+      "status": false,
+      "createdAt": 1691078212685,
+      "id": 6
+    },
+    {
+      "name": "nhân",
+      "workId": 2,
+      "endAt": 0,
+      "status": false,
+      "createdAt": 1691117715778,
+      "id": 7,
+      "member": 1
+    }
+  ],
+  "members": [
+    {
+      "tableId": 1,
+      "userId": 1,
+      "role": "Quản trị viên",
+      "createdAt": 1690902922162,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "tableId": 1,
+      "role": "Thành viên",
+      "createdAt": 1690902987411,
+      "id": 2
+    },
+    {
+      "tableId": 2,
+      "userId": 1,
+      "role": "Quản trị viên",
+      "createdAt": 1690912229121,
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "tableId": 1,
+      "role": "Thành viên",
+      "createdAt": 1691073241043,
+      "id": 4
+    },
+    {
+      "tableId": 3,
+      "userId": 1,
+      "role": "Quản trị viên",
+      "createdAt": 1691310053878,
+      "id": 5
+    },
+    {
+      "tableId": 4,
+      "userId": 2,
+      "role": "Quản trị viên",
+      "createdAt": 1691310345706,
+      "id": 6
+    },
+    {
+      "tableId": 5,
+      "userId": 2,
+      "role": "Quản trị viên",
+      "createdAt": 1691310510344,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "tableId": 5,
+      "role": "Thành viên",
+      "createdAt": 1691312542022,
+      "id": 8
+    }
+  ],
+  "member-card": [
+    {
+      "memberId": 1,
+      "cardId": 1,
+      "createdAt": 1690906539172,
+      "id": 3
+    },
+    {
+      "memberId": 1,
+      "cardId": 3,
+      "createdAt": 1690908760455,
+      "id": 5
+    },
+    {
+      "memberId": 4,
+      "cardId": 1,
+      "createdAt": 1691073251864,
+      "id": 6
+    },
+    {
+      "memberId": 2,
+      "cardId": 1,
+      "createdAt": 1691320303364,
+      "id": 7
+    }
+  ],
+  "labels": [
+    {
+      "id": 1,
+      "name": "xanh lá",
+      "code": "#216E4E"
+    },
+    {
+      "id": 2,
+      "name": "vàng",
+      "code": "#7F5F01"
+    },
+    {
+      "id": 3,
+      "name": "da cam",
+      "code": "#974F0C"
+    },
+    {
+      "id": 4,
+      "name": "đỏ",
+      "code": "#AE2A19"
+    },
+    {
+      "id": 5,
+      "name": "tím",
+      "code": "#5E4DB2"
+    },
+    {
+      "id": 6,
+      "name": "xanh biển",
+      "code": "#0055CC"
+    },
+    {
+      "name": "xanh biển",
+      "code": "#0055CC",
+      "labelName": "nam béo",
+      "createdAt": 1691321276896,
+      "id": 7
+    },
+    {
+      "name": "đỏ",
+      "code": "#AE2A19",
+      "labelName": "nhân gầy",
+      "createdAt": 1691321797343,
+      "id": 8
+    },
+    {
+      "name": "tím",
+      "code": "#5E4DB2",
+      "labelName": "thầy chính com hụt",
+      "createdAt": 1691321820420,
+      "id": 9
+    }
+  ],
+  "card-label": [
+    {
+      "labelId": 3,
+      "cardId": 1,
+      "createdAt": 1691077884978,
+      "id": 7
+    },
+    {
+      "labelId": 4,
+      "cardId": 1,
+      "createdAt": 1691078144692,
+      "id": 9
+    },
+    {
+      "labelId": 4,
+      "cardId": 3,
+      "createdAt": 1691082995370,
+      "id": 10
+    },
+    {
+      "labelId": 1,
+      "cardId": 3,
+      "createdAt": 1691111004343,
+      "id": 11
+    },
+    {
+      "labelId": 7,
+      "cardId": 1,
+      "createdAt": 1691321276922,
+      "id": 12
+    },
+    {
+      "labelId": 7,
+      "cardId": 2,
+      "createdAt": 1691321783258,
+      "id": 13
+    },
+    {
+      "labelId": 8,
+      "cardId": 2,
+      "createdAt": 1691321797371,
+      "id": 14
+    },
+    {
+      "labelId": 9,
+      "cardId": 2,
+      "createdAt": 1691321820446,
+      "id": 15
+    }
+  ]
+}
