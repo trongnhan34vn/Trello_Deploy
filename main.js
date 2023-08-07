@@ -22,7 +22,7 @@ server.get('/echo', (req, res) => {
 server.use(jsonServer.bodyParser)
 
 server.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', 'http://localhost:3000')
+  res.header('Access-Control-Allow-Origin', process.env.REACT_APP_API_ENDPOINT)
   res.header('Access-Control-Allow-Headers', '*')
   next()
 })
