@@ -22,7 +22,7 @@ server.get('/echo', (req, res) => {
 server.use(jsonServer.bodyParser)
 
 server.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', 'https://trello-clone-2.onrender.com/api/*')
+  res.header('Access-Control-Allow-Origin', 'https://trello-clone-2.onrender.com/api')
   res.header('Access-Control-Allow-Headers', '*')
   next()
 })
